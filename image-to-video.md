@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi konversi gambar menjadi video menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Image-to-Video-jasa-video-ai-1024x768.webp "Gambar-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/image-to-video.md/attachment/image-to-video-jasa-video-ai/)
+[![Ilustrasi konversi gambar menjadi video menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Image-to-Video-jasa-video-ai-1024x768.webp "Gambar-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/image-to-video.md/attachment/image-to-video-jasa-video-ai/)
 
-# [Gambar-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/image-to-video.md/)
+# [Gambar-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/image-to-video.md/)
 
-- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/category/teknik.md/)
-- [AI Video Generator](https://github.com/jasavideoai/jasavideoai.github.io/tag/ai-video-generator.md/), [Image to Video](https://github.com/jasavideoai/jasavideoai.github.io/tag/image-to-video.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/jasa-video-ai.md/), [Konten Visual Dinamis](https://github.com/jasavideoai/jasavideoai.github.io/tag/konten-visual-dinamis.md/), [produksi video cepat](https://github.com/jasavideoai/jasavideoai.github.io/tag/produksi-video-cepat.md/), [Transformasi Gambar ke Video](https://github.com/jasavideoai/jasavideoai.github.io/tag/transformasi-gambar-ke-video.md/)
+- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/teknik.md/)
+- [AI Video Generator](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/ai-video-generator.md/), [Image to Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/image-to-video.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/jasa-video-ai.md/), [Konten Visual Dinamis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/konten-visual-dinamis.md/), [produksi video cepat](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/produksi-video-cepat.md/), [Transformasi Gambar ke Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/transformasi-gambar-ke-video.md/)
 
 ## Revolusi Konten Visual: Sulap Gambar Statis Jadi Video Dinamis dengan Teknologi Image-to-Video AI
 
@@ -52,55 +52,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Skrip-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+### [Skrip-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
-[![Ilustrasi dashboard jasa video AI script to video](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Script-to-Video-jasa-video-ai.webp "Skrip-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+[![Ilustrasi dashboard jasa video AI script to video](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Script-to-Video-jasa-video-ai.webp "Skrip-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
 Jasa Video AI berbasis teknik Script-to-Video merevolusi pembuatan konten dengan mengubah naskah tertulis menjadi video profesional secara otomatis. Teknologi ini menawarkan kecepatan produksi yang luar biasa, efisiensi biaya signifikan karena menghilangkan kebutuhan akan kru dan peralatan mahal, serta skalabilitas untuk produksi konten volume tinggi. AI menggunakan NLP untuk memahami konteks naskah, memilih visual yang relevan dari aset yang ada, dan menyinkronkan narasi dengan visual secara sempurna, menjadikannya alat penting untuk pemasaran digital, e-learning, dan komunikasi perusahaan.
 
-### [Pembuatan Video Avatar](https://github.com/jasavideoai/jasavideoai.github.io/avatar-video-generation.md/)
+### [Pembuatan Video Avatar](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/avatar-video-generation.md/)
 
-[![Avatar digital menghasilkan konten video menggunakan teknologi AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Avatar Video Generation-jasa-video-ai.webp "Pembuatan Video Avatar")](https://github.com/jasavideoai/jasavideoai.github.io/avatar-video-generation.md/)
+[![Avatar digital menghasilkan konten video menggunakan teknologi AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Avatar Video Generation-jasa-video-ai.webp "Pembuatan Video Avatar")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/avatar-video-generation.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/avatar-video-generation.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/avatar-video-generation.md/)
 
 Jasa Video AI berbasis Avatar Video Generation menawarkan solusi produksi video yang cepat, hemat biaya, dan sangat skalabel. Dengan teknologi ini, perusahaan dapat menciptakan presenter virtual yang realistis untuk berbagai kebutuhan konten, mulai dari pelatihan korporat hingga kampanye pemasaran, tanpa hambatan logistik produksi video tradisional.
 
-### [Transfer Gerak](https://github.com/jasavideoai/jasavideoai.github.io/motion-transfer.md/)
+### [Transfer Gerak](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/motion-transfer.md/)
 
-[![Ilustrasi transfer gerakan AI pada video digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Motion-Transfer-jasa-video-ai-1024x1024.webp "Transfer Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/motion-transfer.md/)
+[![Ilustrasi transfer gerakan AI pada video digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Motion-Transfer-jasa-video-ai-1024x1024.webp "Transfer Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/motion-transfer.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/motion-transfer.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/motion-transfer.md/)
 
 Jasa Video AI Motion Transfer menawarkan solusi revolusioner untuk produksi konten visual. Teknik berbasis kecerdasan buatan ini memungkinkan transfer gerakan dinamis dari video sumber ke target dengan akurasi tinggi, menghemat biaya produksi, meningkatkan fleksibilitas kreatif, dan memastikan konsistensi visual untuk berbagai kebutuhan mulai dari pelatihan korporat hingga pemasaran digital.
 
-### [Foto Berbicara / Kepala / Avatar](https://github.com/jasavideoai/jasavideoai.github.io/talking-photo-head-avatar.md/)
+### [Foto Berbicara / Kepala / Avatar](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/talking-photo-head-avatar.md/)
 
-[![Ilustrasi avatar wajah AI yang sedang berbicara dalam video presentasi digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Talking Photo  Head  Avatar jasa video ai.webp "Foto Berbicara / Kepala / Avatar")](https://github.com/jasavideoai/jasavideoai.github.io/talking-photo-head-avatar.md/)
+[![Ilustrasi avatar wajah AI yang sedang berbicara dalam video presentasi digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Talking Photo  Head  Avatar jasa video ai.webp "Foto Berbicara / Kepala / Avatar")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/talking-photo-head-avatar.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/talking-photo-head-avatar.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/talking-photo-head-avatar.md/)
 
 Jasa pembuatan video AI menggunakan teknik Talking Photo, Talking Head, dan Avatar untuk menghidupkan gambar statis menjadi presenter virtual yang berbicara realistis dengan sinkronisasi bibir yang akurat, menawarkan solusi cepat dan hemat biaya untuk konten edukasi, pemasaran, dan komunikasi bisnis.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -110,12 +110,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/image-to-video.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/image-to-video.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/image-to-video.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/image-to-video.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/image-to-video.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/image-to-video.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/image-to-video.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/image-to-video.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/image-to-video.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/image-to-video.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/image-to-video.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/image-to-video.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

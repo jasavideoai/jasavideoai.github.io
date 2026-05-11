@@ -2,12 +2,12 @@
 
 Menu
 
-[![Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2025/11/Video-marketing-untuk-social-media-Reels-TikTok-Shorts-Stories-jasa-video-ai-1024x1024.webp "Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)")](https://github.com/jasavideoai/jasavideoai.github.io/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/attachment/video-marketing-untuk-social-media-reels-tiktok-shorts-stories-jasa-video-ai-2/)
+[![Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2025/11/Video-marketing-untuk-social-media-Reels-TikTok-Shorts-Stories-jasa-video-ai-1024x1024.webp "Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/attachment/video-marketing-untuk-social-media-reels-tiktok-shorts-stories-jasa-video-ai-2/)
 
-# [Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)](https://github.com/jasavideoai/jasavideoai.github.io/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/)
+# [Pemasaran Video untuk Media Sosial (Reels, TikTok, Shorts, Stories)](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/)
 
-- [Tujuan](https://github.com/jasavideoai/jasavideoai.github.io/category/tujuan.md/)
-- [AI](https://github.com/jasavideoai/jasavideoai.github.io/tag/ai.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/jasa-video-ai.md/), [konten video](https://github.com/jasavideoai/jasavideoai.github.io/tag/konten-video.md/), [produksi video otomatisasi](https://github.com/jasavideoai/jasavideoai.github.io/tag/produksi-video-otomatisasi.md/), [Reels](https://github.com/jasavideoai/jasavideoai.github.io/tag/reels.md/), [Shorts](https://github.com/jasavideoai/jasavideoai.github.io/tag/shorts.md/), [Stories](https://github.com/jasavideoai/jasavideoai.github.io/tag/stories.md/), [TikTok](https://github.com/jasavideoai/jasavideoai.github.io/tag/tiktok.md/), [video marketing](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-marketing.md/)
+- [Tujuan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/tujuan.md/)
+- [AI](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/ai.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/jasa-video-ai.md/), [konten video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/konten-video.md/), [produksi video otomatisasi](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/produksi-video-otomatisasi.md/), [Reels](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/reels.md/), [Shorts](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/shorts.md/), [Stories](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/stories.md/), [TikTok](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/tiktok.md/), [video marketing](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-marketing.md/)
 
 ## Video Marketing untuk Social Media: Dominasi Reels, TikTok, Shorts, dan Stories dengan Kekuatan AI
 
@@ -59,55 +59,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Video Pelatihan Internal Perusahaan](https://github.com/jasavideoai/jasavideoai.github.io/video-training-internal-perusahaan.md/)
+### [Video Pelatihan Internal Perusahaan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-training-internal-perusahaan.md/)
 
-[![Visualisasi staf perusahaan jasa video AI sedang menerima pelatihan menggunakan teknologi video berbasis kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video training internal perusahaan-jasa-video-ai-1024x1024.webp "Video Pelatihan Internal Perusahaan")](https://github.com/jasavideoai/jasavideoai.github.io/video-training-internal-perusahaan.md/)
+[![Visualisasi staf perusahaan jasa video AI sedang menerima pelatihan menggunakan teknologi video berbasis kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video training internal perusahaan-jasa-video-ai-1024x1024.webp "Video Pelatihan Internal Perusahaan")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-training-internal-perusahaan.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-training-internal-perusahaan.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-training-internal-perusahaan.md/)
 
 Memanfaatkan Jasa Video AI untuk produksi video training internal perusahaan menawarkan efisiensi biaya, kecepatan produksi, dan kemampuan skalabilitas tinggi dibandingkan metode konvensional, memastikan materi pelatihan selalu mutakhir dan menarik bagi karyawan.
 
-### [Video studi kasus / kisah sukses singkat](https://github.com/jasavideoai/jasavideoai.github.io/video-case-study-success-story-singkat.md/)
+### [Video studi kasus / kisah sukses singkat](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-case-study-success-story-singkat.md/)
 
-[![Infografis perbandingan efisiensi produksi video sebelum dan sesudah menggunakan jasa video AI.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video case study success story singkat-jasa-video-ai-1024x1024.webp "Video studi kasus / kisah sukses singkat")](https://github.com/jasavideoai/jasavideoai.github.io/video-case-study-success-story-singkat.md/)
+[![Infografis perbandingan efisiensi produksi video sebelum dan sesudah menggunakan jasa video AI.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video case study success story singkat-jasa-video-ai-1024x1024.webp "Video studi kasus / kisah sukses singkat")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-case-study-success-story-singkat.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-case-study-success-story-singkat.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-case-study-success-story-singkat.md/)
 
 Jasa Video AI memungkinkan pembuatan Video Case Study dan Success Story singkat yang efisien, mengubah data keberhasilan klien menjadi narasi visual persuasif dalam waktu singkat. Format ringkas ini ideal untuk membangun kepercayaan audiens di era digital.
 
-### [Video penceritaan naratif untuk kampanye](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+### [Video penceritaan naratif untuk kampanye](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
-[![Visualisasi konsep storytelling naratif untuk promosi jasa video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video storytelling naratif untuk campaign-jasa-video-ai-1024x1024.webp "Video penceritaan naratif untuk kampanye")](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+[![Visualisasi konsep storytelling naratif untuk promosi jasa video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video storytelling naratif untuk campaign-jasa-video-ai-1024x1024.webp "Video penceritaan naratif untuk kampanye")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
 Video storytelling naratif adalah kunci efektivitas kampanye digital modern karena membangun koneksi emosional dengan audiens. Kami menawarkan Jasa Video AI inovatif yang merevolusi produksi konten ini, memungkinkan pembuatan narasi berkualitas tinggi, cepat, dan dapat diskalakan tanpa mengorbankan kedalaman cerita.
 
-### [Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)](https://github.com/jasavideoai/jasavideoai.github.io/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
+### [Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
 
-[![Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2025/11/Iklan-performance-marketing-Meta-Ads-Google-Ads-TikTok-Ads-jasa-video-ai-1024x1024.webp "Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
+[![Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2025/11/Iklan-performance-marketing-Meta-Ads-Google-Ads-TikTok-Ads-jasa-video-ai-1024x1024.webp "Iklan Performance Marketing (Meta Ads, Google Ads, TikTok Ads)")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-performance-marketing-meta-ads-google-ads-tiktok-ads.md/)
 
 Jasa Video AI merevolusi performance marketing di Meta Ads, Google Ads, dan TikTok Ads dengan menyediakan produksi konten video yang sangat cepat, terpersonalisasi dalam skala besar, dan dioptimalkan langsung untuk metrik konversi (CTR & CPA), mengatasi hambatan biaya dan waktu dalam A/B testing kreatif.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -117,12 +117,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/video-marketing-untuk-social-media-reels-tiktok-shorts-stories.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

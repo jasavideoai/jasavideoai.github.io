@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi mobil konsep futuristik dihasilkan oleh AI dalam lingkungan virtual](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Otomotif & Kendaraan-jasa-video-ai-1024x1024.webp "Otomotif & Kendaraan")](https://github.com/jasavideoai/jasavideoai.github.io/otomotif-kendaraan.md/attachment/otomotif-kendaraan-jasa-video-ai/)
+[![Ilustrasi mobil konsep futuristik dihasilkan oleh AI dalam lingkungan virtual](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Otomotif & Kendaraan-jasa-video-ai-1024x1024.webp "Otomotif & Kendaraan")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/otomotif-kendaraan.md/attachment/otomotif-kendaraan-jasa-video-ai/)
 
-# [Otomotif & Kendaraan](https://github.com/jasavideoai/jasavideoai.github.io/otomotif-kendaraan.md/)
+# [Otomotif & Kendaraan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/otomotif-kendaraan.md/)
 
-- [Sektor Bisnis](https://github.com/jasavideoai/jasavideoai.github.io/category/sektor-bisnis.md/)
-- [industri 4.0](https://github.com/jasavideoai/jasavideoai.github.io/tag/industri-4-0.md/), [kendaraan](https://github.com/jasavideoai/jasavideoai.github.io/tag/kendaraan.md/), [otomotif](https://github.com/jasavideoai/jasavideoai.github.io/tag/otomotif.md/), [pelatihan teknis](https://github.com/jasavideoai/jasavideoai.github.io/tag/pelatihan-teknis.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/tag/pemasaran-digital.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-ai.md/), [visualisasi produk](https://github.com/jasavideoai/jasavideoai.github.io/tag/visualisasi-produk.md/)
+- [Sektor Bisnis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/sektor-bisnis.md/)
+- [industri 4.0](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/industri-4-0.md/), [kendaraan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/kendaraan.md/), [otomotif](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/otomotif.md/), [pelatihan teknis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pelatihan-teknis.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pemasaran-digital.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-ai.md/), [visualisasi produk](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/visualisasi-produk.md/)
 
 ## Revolusi Visual: Memanfaatkan Jasa Video AI untuk Sektor Otomotif & Kendaraan
 
@@ -47,55 +47,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Keuangan & Fintech](https://github.com/jasavideoai/jasavideoai.github.io/keuangan-fintech.md/)
+### [Keuangan & Fintech](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/keuangan-fintech.md/)
 
-[![Ilustrasi teknologi video AI dalam presentasi data keuangan dan layanan perbankan digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Keuangan & Fintech-jasa-video-ai-1024x1024.webp "Keuangan & Fintech")](https://github.com/jasavideoai/jasavideoai.github.io/keuangan-fintech.md/)
+[![Ilustrasi teknologi video AI dalam presentasi data keuangan dan layanan perbankan digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Keuangan & Fintech-jasa-video-ai-1024x1024.webp "Keuangan & Fintech")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/keuangan-fintech.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/keuangan-fintech.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/keuangan-fintech.md/)
 
 Sektor keuangan dan fintech dapat merevolusi komunikasi nasabah dan efisiensi operasional dengan mengimplementasikan jasa video AI untuk personalisasi konten skala besar, pelatihan kepatuhan yang cepat, dan penyederhanaan produk keuangan yang rumit.
 
-### [Mode & Pakaian](https://github.com/jasavideoai/jasavideoai.github.io/fashion-apparel.md/)
+### [Mode & Pakaian](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fashion-apparel.md/)
 
-[![Ilustrasi penggunaan kecerdasan buatan untuk produksi video runway fashion digital.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Fashion & Apparel-jasa-video-ai-1024x1024.webp "Mode & Pakaian")](https://github.com/jasavideoai/jasavideoai.github.io/fashion-apparel.md/)
+[![Ilustrasi penggunaan kecerdasan buatan untuk produksi video runway fashion digital.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Fashion & Apparel-jasa-video-ai-1024x1024.webp "Mode & Pakaian")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fashion-apparel.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/fashion-apparel.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fashion-apparel.md/)
 
 Jasa Video AI merevolusi sektor fashion & apparel dengan menawarkan produksi konten visual yang cepat, realistis, dan sangat terpersonalisasi. Teknologi ini memungkinkan merek mengganti kebutuhan akan pemotretan fisik yang mahal dengan pembuatan model virtual, simulasi styling otomatis, dan efisiensi biaya produksi yang signifikan, mempercepat peluncuran koleksi ke pasar digital.
 
-### [Kecantikan & Kosmetik](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+### [Kecantikan & Kosmetik](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
-[![Video demo produk kecantikan menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Beauty & Kosmetik-jasa-video-ai.webp "Kecantikan & Kosmetik")](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+[![Video demo produk kecantikan menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Beauty & Kosmetik-jasa-video-ai.webp "Kecantikan & Kosmetik")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
 Jasa video berbasis Kecerdasan Buatan (AI) menawarkan efisiensi produksi yang masif dan kemampuan personalisasi konten yang mendalam untuk sektor kecantikan dan kosmetik, memungkinkan merek menghasilkan ribuan variasi video demonstrasi produk, tutorial, dan testimoni secara instan untuk meningkatkan konversi dan menjangkau pasar global dengan konsistensi merek yang terjaga.
 
-### [Travel & Pariwisata](https://github.com/jasavideoai/jasavideoai.github.io/travel-pariwisata.md/)
+### [Travel & Pariwisata](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/travel-pariwisata.md/)
 
-[![Ilustrasi visualisasi peta destinasi menggunakan teknologi kecerdasan buatan untuk promosi pariwisata.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Travel & Pariwisata-jasa-video-ai-1024x1024.webp "Travel & Pariwisata")](https://github.com/jasavideoai/jasavideoai.github.io/travel-pariwisata.md/)
+[![Ilustrasi visualisasi peta destinasi menggunakan teknologi kecerdasan buatan untuk promosi pariwisata.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Travel & Pariwisata-jasa-video-ai-1024x1024.webp "Travel & Pariwisata")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/travel-pariwisata.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/travel-pariwisata.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/travel-pariwisata.md/)
 
 Jasa video AI menawarkan revolusi visual bagi sektor travel dan pariwisata melalui personalisasi konten berskala besar, efisiensi produksi yang drastis, dan kemampuan analisis performa yang mendalam, memungkinkan bisnis untuk merespons tren pasar dengan kecepatan yang belum pernah terjadi sebelumnya.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -105,12 +105,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/otomotif-kendaraan.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/otomotif-kendaraan.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/otomotif-kendaraan.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/otomotif-kendaraan.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/otomotif-kendaraan.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/otomotif-kendaraan.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/otomotif-kendaraan.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/otomotif-kendaraan.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/otomotif-kendaraan.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/otomotif-kendaraan.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/otomotif-kendaraan.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/otomotif-kendaraan.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

@@ -4,11 +4,11 @@ Menu
 
 Tag: developer
 
-### [Agen Properti dan Developer](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+### [Agen Properti dan Developer](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
-[![Ilustrasi agen properti menggunakan tablet untuk melihat render properti 3D yang dibuat oleh kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Agen Properti Developer-jasa-video-ai.webp "Agen Properti dan Developer")](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+[![Ilustrasi agen properti menggunakan tablet untuk melihat render properti 3D yang dibuat oleh kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Agen Properti Developer-jasa-video-ai.webp "Agen Properti dan Developer")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
 Jasa Video AI merevolusi pemasaran agen properti dan developer dengan memungkinkan pembuatan tur properti virtual yang profesional, cepat, dan hemat biaya, meningkatkan daya saing melalui visualisasi dinamis dan narasi otomatis.
 
@@ -20,12 +20,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/tag/developer.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/tag/developer.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/tag/developer.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/tag/developer.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/tag/developer.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/tag/developer.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/tag/developer.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/tag/developer.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/tag/developer.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/tag/developer.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/tag/developer.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/tag/developer.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi profesional menggunakan teknologi AI untuk video rekrutmen dan pelatihan HR](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/HR & Rekrutmen-jasa-video-ai.webp "SDM & Rekrutmen")](https://github.com/jasavideoai/jasavideoai.github.io/hr-rekrutmen.md/attachment/hr-rekrutmen-jasa-video-ai/)
+[![Ilustrasi profesional menggunakan teknologi AI untuk video rekrutmen dan pelatihan HR](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/HR & Rekrutmen-jasa-video-ai.webp "SDM & Rekrutmen")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/hr-rekrutmen.md/attachment/hr-rekrutmen-jasa-video-ai/)
 
-# [SDM & Rekrutmen](https://github.com/jasavideoai/jasavideoai.github.io/hr-rekrutmen.md/)
+# [SDM & Rekrutmen](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/hr-rekrutmen.md/)
 
-- [Sektor Bisnis](https://github.com/jasavideoai/jasavideoai.github.io/category/sektor-bisnis.md/)
-- [Employer Branding](https://github.com/jasavideoai/jasavideoai.github.io/tag/employer-branding.md/), [HR Tech](https://github.com/jasavideoai/jasavideoai.github.io/tag/hr-tech.md/), [Otomatisasi HR](https://github.com/jasavideoai/jasavideoai.github.io/tag/otomatisasi-hr.md/), [Rekrutmen Digital](https://github.com/jasavideoai/jasavideoai.github.io/tag/rekrutmen-digital.md/), [Transformasi SDM](https://github.com/jasavideoai/jasavideoai.github.io/tag/transformasi-sdm.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-ai.md/)
+- [Sektor Bisnis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/sektor-bisnis.md/)
+- [Employer Branding](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/employer-branding.md/), [HR Tech](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/hr-tech.md/), [Otomatisasi HR](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/otomatisasi-hr.md/), [Rekrutmen Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/rekrutmen-digital.md/), [Transformasi SDM](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/transformasi-sdm.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-ai.md/)
 
 ## Transformasi Digital dalam HR: Memanfaatkan Kekuatan Video AI untuk Rekrutmen Unggul
 
@@ -51,55 +51,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Kesehatan & Medis](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+### [Kesehatan & Medis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
-[![Visualisasi anatomi medis menggunakan teknologi video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Kesehatan  Medis-jasa-video-ai-1024x1024.webp "Kesehatan & Medis")](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+[![Visualisasi anatomi medis menggunakan teknologi video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Kesehatan  Medis-jasa-video-ai-1024x1024.webp "Kesehatan & Medis")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
 Pemanfaatan jasa video berbasis Kecerdasan Buatan (AI) menawarkan solusi transformatif bagi sektor kesehatan dan medis. Teknologi ini memungkinkan produksi cepat konten edukasi pasien yang personal dan dapat diskalakan, pelatihan staf medis melalui simulasi realistis, serta strategi pemasaran layanan kesehatan yang lebih menarik dan efisien, semuanya sambil menjaga konsistensi dan kepatuhan terhadap regulasi yang ketat.
 
-### [Agen Properti dan Developer](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+### [Agen Properti dan Developer](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
-[![Ilustrasi agen properti menggunakan tablet untuk melihat render properti 3D yang dibuat oleh kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Agen Properti Developer-jasa-video-ai.webp "Agen Properti dan Developer")](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+[![Ilustrasi agen properti menggunakan tablet untuk melihat render properti 3D yang dibuat oleh kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Agen Properti Developer-jasa-video-ai.webp "Agen Properti dan Developer")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/agen-properti-developer.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/agen-properti-developer.md/)
 
 Jasa Video AI merevolusi pemasaran agen properti dan developer dengan memungkinkan pembuatan tur properti virtual yang profesional, cepat, dan hemat biaya, meningkatkan daya saing melalui visualisasi dinamis dan narasi otomatis.
 
-### [E-niaga & Produk Daring](https://github.com/jasavideoai/jasavideoai.github.io/e-commerce-produk-online.md/)
+### [E-niaga & Produk Daring](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/e-commerce-produk-online.md/)
 
-[![Grafik yang menunjukkan peningkatan efisiensi produksi video menggunakan AI untuk e-commerce](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/E-commerce  Produk Online-jasa-video-ai-1024x1024.webp "E-niaga & Produk Daring")](https://github.com/jasavideoai/jasavideoai.github.io/e-commerce-produk-online.md/)
+[![Grafik yang menunjukkan peningkatan efisiensi produksi video menggunakan AI untuk e-commerce](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/E-commerce  Produk Online-jasa-video-ai-1024x1024.webp "E-niaga & Produk Daring")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/e-commerce-produk-online.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/e-commerce-produk-online.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/e-commerce-produk-online.md/)
 
 Jasa Video AI menawarkan solusi transformatif bagi sektor e-commerce dan produk online dengan memungkinkan pembuatan konten video produk yang berkualitas tinggi, personal, dan sangat efisien, mengatasi tantangan biaya dan waktu produksi tradisional serta meningkatkan konversi penjualan.
 
-### [Kecantikan & Kosmetik](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+### [Kecantikan & Kosmetik](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
-[![Video demo produk kecantikan menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Beauty & Kosmetik-jasa-video-ai.webp "Kecantikan & Kosmetik")](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+[![Video demo produk kecantikan menggunakan teknologi kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Beauty & Kosmetik-jasa-video-ai.webp "Kecantikan & Kosmetik")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/beauty-kosmetik.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/beauty-kosmetik.md/)
 
 Jasa video berbasis Kecerdasan Buatan (AI) menawarkan efisiensi produksi yang masif dan kemampuan personalisasi konten yang mendalam untuk sektor kecantikan dan kosmetik, memungkinkan merek menghasilkan ribuan variasi video demonstrasi produk, tutorial, dan testimoni secara instan untuk meningkatkan konversi dan menjangkau pasar global dengan konsistensi merek yang terjaga.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -109,12 +109,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/hr-rekrutmen.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/hr-rekrutmen.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/hr-rekrutmen.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/hr-rekrutmen.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/hr-rekrutmen.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/hr-rekrutmen.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/hr-rekrutmen.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/hr-rekrutmen.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/hr-rekrutmen.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/hr-rekrutmen.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/hr-rekrutmen.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/hr-rekrutmen.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

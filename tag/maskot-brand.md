@@ -4,11 +4,11 @@ Menu
 
 Tag: maskot brand
 
-### [Video Animasi Karakter/Maskot Merek](https://github.com/jasavideoai/jasavideoai.github.io/video-animasi-karakter-mascot-brand.md/)
+### [Video Animasi Karakter/Maskot Merek](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-animasi-karakter-mascot-brand.md/)
 
-[![Ilustrasi karakter maskot animasi yang mewakili teknologi kecerdasan buatan untuk jasa pembuatan video.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video animasi karakter mascot brand-jasa-video-ai-1024x1024.webp "Video Animasi Karakter/Maskot Merek")](https://github.com/jasavideoai/jasavideoai.github.io/video-animasi-karakter-mascot-brand.md/)
+[![Ilustrasi karakter maskot animasi yang mewakili teknologi kecerdasan buatan untuk jasa pembuatan video.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video animasi karakter mascot brand-jasa-video-ai-1024x1024.webp "Video Animasi Karakter/Maskot Merek")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-animasi-karakter-mascot-brand.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-animasi-karakter-mascot-brand.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-animasi-karakter-mascot-brand.md/)
 
 Jasa Video AI kini menawarkan solusi revolusioner untuk pembuatan video animasi karakter dan maskot brand. Teknologi ini mempercepat produksi, menjaga konsistensi visual, dan memungkinkan personalisasi skala besar, menjadikannya alat krusial untuk meningkatkan daya ingat merek dan efektivitas kampanye pemasaran digital.
 
@@ -20,12 +20,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/tag/maskot-brand.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/tag/maskot-brand.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/tag/maskot-brand.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/tag/maskot-brand.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/tag/maskot-brand.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/tag/maskot-brand.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/tag/maskot-brand.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/tag/maskot-brand.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/tag/maskot-brand.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/tag/maskot-brand.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/tag/maskot-brand.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/tag/maskot-brand.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

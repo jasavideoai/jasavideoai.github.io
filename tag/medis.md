@@ -4,11 +4,11 @@ Menu
 
 Tag: medis
 
-### [Kesehatan & Medis](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+### [Kesehatan & Medis](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
-[![Visualisasi anatomi medis menggunakan teknologi video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Kesehatan  Medis-jasa-video-ai-1024x1024.webp "Kesehatan & Medis")](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+[![Visualisasi anatomi medis menggunakan teknologi video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Kesehatan  Medis-jasa-video-ai-1024x1024.webp "Kesehatan & Medis")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/kesehatan-medis.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/kesehatan-medis.md/)
 
 Pemanfaatan jasa video berbasis Kecerdasan Buatan (AI) menawarkan solusi transformatif bagi sektor kesehatan dan medis. Teknologi ini memungkinkan produksi cepat konten edukasi pasien yang personal dan dapat diskalakan, pelatihan staf medis melalui simulasi realistis, serta strategi pemasaran layanan kesehatan yang lebih menarik dan efisien, semuanya sambil menjaga konsistensi dan kepatuhan terhadap regulasi yang ketat.
 
@@ -20,12 +20,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/tag/medis.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/tag/medis.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/tag/medis.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/tag/medis.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/tag/medis.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/tag/medis.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/tag/medis.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/tag/medis.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/tag/medis.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/tag/medis.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/tag/medis.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/tag/medis.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

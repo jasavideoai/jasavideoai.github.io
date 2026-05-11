@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi teknologi AI membuat video explainer produk layanan bisnis](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video explainer produk layanan-jasa-video-ai-1024x1024.webp "Video Penjelasan Produk / Layanan")](https://github.com/jasavideoai/jasavideoai.github.io/video-explainer-produk-layanan.md/attachment/video-explainer-produk-layanan-jasa-video-ai/)
+[![Ilustrasi teknologi AI membuat video explainer produk layanan bisnis](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video explainer produk layanan-jasa-video-ai-1024x1024.webp "Video Penjelasan Produk / Layanan")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-explainer-produk-layanan.md/attachment/video-explainer-produk-layanan-jasa-video-ai/)
 
-# [Video Penjelasan Produk / Layanan](https://github.com/jasavideoai/jasavideoai.github.io/video-explainer-produk-layanan.md/)
+# [Video Penjelasan Produk / Layanan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-explainer-produk-layanan.md/)
 
-- [Tujuan](https://github.com/jasavideoai/jasavideoai.github.io/category/tujuan.md/)
-- [animasi produk](https://github.com/jasavideoai/jasavideoai.github.io/tag/animasi-produk.md/), [efisiensi produksi video](https://github.com/jasavideoai/jasavideoai.github.io/tag/efisiensi-produksi-video.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/jasa-video-ai.md/), [konten visual](https://github.com/jasavideoai/jasavideoai.github.io/tag/konten-visual.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/tag/pemasaran-digital.md/), [video explainer](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-explainer.md/)
+- [Tujuan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/tujuan.md/)
+- [animasi produk](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/animasi-produk.md/), [efisiensi produksi video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/efisiensi-produksi-video.md/), [jasa video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/jasa-video-ai.md/), [konten visual](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/konten-visual.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pemasaran-digital.md/), [video explainer](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-explainer.md/)
 
 ## Video Explainer Produk / Layanan: Kekuatan Narasi Visual di Era Digital
 
@@ -54,55 +54,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Video Lokal/Multibahasa untuk Pasar Berbeda](https://github.com/jasavideoai/jasavideoai.github.io/video-lokal-multilingual-untuk-pasar-berbeda.md/)
+### [Video Lokal/Multibahasa untuk Pasar Berbeda](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-lokal-multilingual-untuk-pasar-berbeda.md/)
 
-[![Ilustrasi digital avatar berbicara berbagai bahasa menggunakan teknologi AI untuk video pemasaran.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video lokal multilingual untuk pasar berbeda-jasa-video-ai-1024x1024.webp "Video Lokal/Multibahasa untuk Pasar Berbeda")](https://github.com/jasavideoai/jasavideoai.github.io/video-lokal-multilingual-untuk-pasar-berbeda.md/)
+[![Ilustrasi digital avatar berbicara berbagai bahasa menggunakan teknologi AI untuk video pemasaran.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video lokal multilingual untuk pasar berbeda-jasa-video-ai-1024x1024.webp "Video Lokal/Multibahasa untuk Pasar Berbeda")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-lokal-multilingual-untuk-pasar-berbeda.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-lokal-multilingual-untuk-pasar-berbeda.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-lokal-multilingual-untuk-pasar-berbeda.md/)
 
 Jasa Video AI menawarkan solusi efisien untuk menciptakan video lokal dan multilingual yang sangat relevan bagi berbagai pasar global. Dengan teknologi AI dubbing, sinkronisasi bibir otomatis, dan skalabilitas tinggi, perusahaan dapat meningkatkan keterlibatan audiens dan mempercepat peluncuran kampanye di berbagai wilayah tanpa mengorbankan kualitas atau keakuratan budaya.
 
-### [Video penceritaan naratif untuk kampanye](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+### [Video penceritaan naratif untuk kampanye](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
-[![Visualisasi konsep storytelling naratif untuk promosi jasa video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video storytelling naratif untuk campaign-jasa-video-ai-1024x1024.webp "Video penceritaan naratif untuk kampanye")](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+[![Visualisasi konsep storytelling naratif untuk promosi jasa video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video storytelling naratif untuk campaign-jasa-video-ai-1024x1024.webp "Video penceritaan naratif untuk kampanye")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-storytelling-naratif-untuk-campaign.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-storytelling-naratif-untuk-campaign.md/)
 
 Video storytelling naratif adalah kunci efektivitas kampanye digital modern karena membangun koneksi emosional dengan audiens. Kami menawarkan Jasa Video AI inovatif yang merevolusi produksi konten ini, memungkinkan pembuatan narasi berkualitas tinggi, cepat, dan dapat diskalakan tanpa mengorbankan kedalaman cerita.
 
-### [Iklan Produk E-niaga / Pameran Produk](https://github.com/jasavideoai/jasavideoai.github.io/iklan-produk-e-commerce-showcase-produk.md/)
+### [Iklan Produk E-niaga / Pameran Produk](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-produk-e-commerce-showcase-produk.md/)
 
-[![Tampilan visualisasi produk modern yang dibuat menggunakan teknologi AI untuk iklan e-commerce.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Iklan produk e-commerce showcase produk-jasa-video-ai.webp "Iklan Produk E-niaga / Pameran Produk")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-produk-e-commerce-showcase-produk.md/)
+[![Tampilan visualisasi produk modern yang dibuat menggunakan teknologi AI untuk iklan e-commerce.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Iklan produk e-commerce showcase produk-jasa-video-ai.webp "Iklan Produk E-niaga / Pameran Produk")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-produk-e-commerce-showcase-produk.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/iklan-produk-e-commerce-showcase-produk.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-produk-e-commerce-showcase-produk.md/)
 
 Jasa Video AI merevolusi cara produk e-commerce ditampilkan. Dengan kecepatan tinggi, kustomisasi narasi dan latar belakang tak terbatas, serta kemampuan menyorot fitur secara dinamis, teknologi ini menawarkan solusi hemat biaya untuk meningkatkan konversi dan mengurangi tingkat pengembalian produk di platform online Anda.
 
-### [Video Promosi Brand / Brand Awareness](https://github.com/jasavideoai/jasavideoai.github.io/video-promosi-brand-brand-awareness.md/)
+### [Video Promosi Brand / Brand Awareness](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-promosi-brand-brand-awareness.md/)
 
-[![Ilustrasi visualisasi teknologi AI untuk pembuatan konten video promosi brand awareness](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video promosi brand awareness-jasa-video-ai.webp "Video Promosi Brand / Brand Awareness")](https://github.com/jasavideoai/jasavideoai.github.io/video-promosi-brand-brand-awareness.md/)
+[![Ilustrasi visualisasi teknologi AI untuk pembuatan konten video promosi brand awareness](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Video promosi brand awareness-jasa-video-ai.webp "Video Promosi Brand / Brand Awareness")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-promosi-brand-brand-awareness.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/video-promosi-brand-brand-awareness.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/video-promosi-brand-brand-awareness.md/)
 
 Jasa Video AI menawarkan solusi revolusioner untuk pembuatan video promosi brand yang cepat, personal, dan hemat biaya. Dengan memanfaatkan kecerdasan buatan, bisnis dapat meningkatkan brand awareness secara signifikan melalui produksi konten visual yang konsisten dan relevan dalam skala besar, mengatasi keterbatasan waktu dan anggaran produksi tradisional.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -112,12 +112,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/video-explainer-produk-layanan.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/video-explainer-produk-layanan.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/video-explainer-produk-layanan.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/video-explainer-produk-layanan.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/video-explainer-produk-layanan.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/video-explainer-produk-layanan.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/video-explainer-produk-layanan.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/video-explainer-produk-layanan.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/video-explainer-produk-layanan.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/video-explainer-produk-layanan.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/video-explainer-produk-layanan.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/video-explainer-produk-layanan.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

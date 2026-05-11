@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi visualisasi proses personalisasi video menggunakan kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Personalisasi Skala Besar-jasa-video-ai.webp "Personalisasi Skala Besar")](https://github.com/jasavideoai/jasavideoai.github.io/personalisasi-skala-besar.md/attachment/personalisasi-skala-besar-jasa-video-ai/)
+[![Ilustrasi visualisasi proses personalisasi video menggunakan kecerdasan buatan](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Personalisasi Skala Besar-jasa-video-ai.webp "Personalisasi Skala Besar")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/personalisasi-skala-besar.md/attachment/personalisasi-skala-besar-jasa-video-ai/)
 
-# [Personalisasi Skala Besar](https://github.com/jasavideoai/jasavideoai.github.io/personalisasi-skala-besar.md/)
+# [Personalisasi Skala Besar](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/personalisasi-skala-besar.md/)
 
-- [Manfaat](https://github.com/jasavideoai/jasavideoai.github.io/category/manfaat.md/)
-- [kecerdasan buatan](https://github.com/jasavideoai/jasavideoai.github.io/tag/kecerdasan-buatan.md/), [keterlibatan pelanggan](https://github.com/jasavideoai/jasavideoai.github.io/tag/keterlibatan-pelanggan.md/), [mass personalization](https://github.com/jasavideoai/jasavideoai.github.io/tag/mass-personalization.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/tag/pemasaran-digital.md/), [personalisasi skala besar](https://github.com/jasavideoai/jasavideoai.github.io/tag/personalisasi-skala-besar.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-ai.md/)
+- [Manfaat](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/manfaat.md/)
+- [kecerdasan buatan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/kecerdasan-buatan.md/), [keterlibatan pelanggan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/keterlibatan-pelanggan.md/), [mass personalization](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/mass-personalization.md/), [pemasaran digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pemasaran-digital.md/), [personalisasi skala besar](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/personalisasi-skala-besar.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-ai.md/)
 
 ## Personalisasi Skala Besar: Revolusi Komunikasi Bisnis dengan Video AI
 
@@ -58,55 +58,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Tanpa Kamera / Tidak Perlu Studio](https://github.com/jasavideoai/jasavideoai.github.io/zero-camera-no-studio-needed.md/)
+### [Tanpa Kamera / Tidak Perlu Studio](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/zero-camera-no-studio-needed.md/)
 
-[![Ilustrasi komputer yang menghasilkan video realistis tanpa peralatan kamera](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Zero Camera No Studio Needed-jasa-video-ai-1024x1024.webp "Tanpa Kamera / Tidak Perlu Studio")](https://github.com/jasavideoai/jasavideoai.github.io/zero-camera-no-studio-needed.md/)
+[![Ilustrasi komputer yang menghasilkan video realistis tanpa peralatan kamera](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Zero Camera No Studio Needed-jasa-video-ai-1024x1024.webp "Tanpa Kamera / Tidak Perlu Studio")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/zero-camera-no-studio-needed.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/zero-camera-no-studio-needed.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/zero-camera-no-studio-needed.md/)
 
 Jasa Video AI menawarkan revolusi produksi konten dengan menghilangkan kebutuhan akan kamera fisik dan studio tradisional. Dapatkan video berkualitas tinggi secara instan, multibahasa, dan sangat hemat biaya.
 
-### [Percepatan Produksi (Speed to Market)](https://github.com/jasavideoai/jasavideoai.github.io/percepatan-produksi-speed-to-market.md/)
+### [Percepatan Produksi (Speed to Market)](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/percepatan-produksi-speed-to-market.md/)
 
-[![Seorang profesional pemasaran menggunakan tablet untuk membuat dan meluncurkan video AI dengan cepat.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Percepatan Produksi (Speed to Market)-jasa-video-ai.webp "Percepatan Produksi (Speed to Market)")](https://github.com/jasavideoai/jasavideoai.github.io/percepatan-produksi-speed-to-market.md/)
+[![Seorang profesional pemasaran menggunakan tablet untuk membuat dan meluncurkan video AI dengan cepat.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Percepatan Produksi (Speed to Market)-jasa-video-ai.webp "Percepatan Produksi (Speed to Market)")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/percepatan-produksi-speed-to-market.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/percepatan-produksi-speed-to-market.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/percepatan-produksi-speed-to-market.md/)
 
 Mengoptimalkan *Speed to Market* melalui adopsi Jasa Video AI memungkinkan perusahaan meluncurkan kampanye pemasaran dan konten visual jauh lebih cepat dibandingkan metode tradisional, memberikan keunggulan kompetitif signifikan dalam merespons tren pasar secara instan.
 
-### [Aksesibilitas & Inklusivitas](https://github.com/jasavideoai/jasavideoai.github.io/aksesibilitas-inklusivitas.md/)
+### [Aksesibilitas & Inklusivitas](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/aksesibilitas-inklusivitas.md/)
 
-[![Ilustrasi konsep inklusivitas dalam produksi video berbasis AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Aksesibilitas & Inklusivitas-jasa-video-ai-1024x1024.webp "Aksesibilitas & Inklusivitas")](https://github.com/jasavideoai/jasavideoai.github.io/aksesibilitas-inklusivitas.md/)
+[![Ilustrasi konsep inklusivitas dalam produksi video berbasis AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Aksesibilitas & Inklusivitas-jasa-video-ai-1024x1024.webp "Aksesibilitas & Inklusivitas")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/aksesibilitas-inklusivitas.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/aksesibilitas-inklusivitas.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/aksesibilitas-inklusivitas.md/)
 
 Jasa video berbasis Kecerdasan Buatan (AI) memainkan peran vital dalam meningkatkan aksesibilitas dan inklusivitas konten digital dengan mengotomatisasi fitur penting seperti pembuatan subtitle yang akurat, terjemahan bahasa instan, dan deskripsi audio, sehingga memudahkan akses bagi penyandang disabilitas dan audiens global.
 
-### [ROI Tinggi di Iklan Digital](https://github.com/jasavideoai/jasavideoai.github.io/roi-tinggi-di-iklan-digital.md/)
+### [ROI Tinggi di Iklan Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/roi-tinggi-di-iklan-digital.md/)
 
-[![Ilustrasi peningkatan ROI iklan digital menggunakan teknologi video kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/ROI Tinggi di Iklan Digital-jasa-video-ai-1024x1024.webp "ROI Tinggi di Iklan Digital")](https://github.com/jasavideoai/jasavideoai.github.io/roi-tinggi-di-iklan-digital.md/)
+[![Ilustrasi peningkatan ROI iklan digital menggunakan teknologi video kecerdasan buatan.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/ROI Tinggi di Iklan Digital-jasa-video-ai-1024x1024.webp "ROI Tinggi di Iklan Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/roi-tinggi-di-iklan-digital.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/roi-tinggi-di-iklan-digital.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/roi-tinggi-di-iklan-digital.md/)
 
 Pemanfaatan Jasa Video AI dalam iklan digital secara drastis meningkatkan Return on Investment (ROI) melalui penghematan biaya produksi yang signifikan, kemampuan personalisasi konten dalam skala besar, dan peningkatan kecepatan iterasi kampanye. Efisiensi ini memungkinkan alokasi anggaran yang lebih besar untuk media spend, sementara video yang relevan meningkatkan metrik keterlibatan dan konversi.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -116,12 +116,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/personalisasi-skala-besar.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/personalisasi-skala-besar.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/personalisasi-skala-besar.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/personalisasi-skala-besar.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/personalisasi-skala-besar.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/personalisasi-skala-besar.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/personalisasi-skala-besar.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/personalisasi-skala-besar.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/personalisasi-skala-besar.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/personalisasi-skala-besar.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/personalisasi-skala-besar.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/personalisasi-skala-besar.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

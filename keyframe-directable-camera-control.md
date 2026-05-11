@@ -2,12 +2,12 @@
 
 Menu
 
-[![Tampilan antarmuka kontrol kamera keyframe untuk generator video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Keyframe Directable Camera Control-jasa-video-ai.webp "Kontrol Kamera dengan Keyframe / Terarah")](https://github.com/jasavideoai/jasavideoai.github.io/keyframe-directable-camera-control.md/attachment/keyframe-directable-camera-control-jasa-video-ai/)
+[![Tampilan antarmuka kontrol kamera keyframe untuk generator video AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Keyframe Directable Camera Control-jasa-video-ai.webp "Kontrol Kamera dengan Keyframe / Terarah")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/keyframe-directable-camera-control.md/attachment/keyframe-directable-camera-control-jasa-video-ai/)
 
-# [Kontrol Kamera dengan Keyframe / Terarah](https://github.com/jasavideoai/jasavideoai.github.io/keyframe-directable-camera-control.md/)
+# [Kontrol Kamera dengan Keyframe / Terarah](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/keyframe-directable-camera-control.md/)
 
-- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/category/teknik.md/)
-- [Animasi AI](https://github.com/jasavideoai/jasavideoai.github.io/tag/animasi-ai.md/), [directable camera control](https://github.com/jasavideoai/jasavideoai.github.io/tag/directable-camera-control.md/), [kecerdasan buatan](https://github.com/jasavideoai/jasavideoai.github.io/tag/kecerdasan-buatan.md/), [keyframe](https://github.com/jasavideoai/jasavideoai.github.io/tag/keyframe.md/), [kontrol kamera](https://github.com/jasavideoai/jasavideoai.github.io/tag/kontrol-kamera.md/), [pasca-produksi](https://github.com/jasavideoai/jasavideoai.github.io/tag/pasca-produksi.md/), [produksi video](https://github.com/jasavideoai/jasavideoai.github.io/tag/produksi-video.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-ai.md/)
+- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/teknik.md/)
+- [Animasi AI](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/animasi-ai.md/), [directable camera control](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/directable-camera-control.md/), [kecerdasan buatan](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/kecerdasan-buatan.md/), [keyframe](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/keyframe.md/), [kontrol kamera](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/kontrol-kamera.md/), [pasca-produksi](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pasca-produksi.md/), [produksi video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/produksi-video.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-ai.md/)
 
 ## Keyframe / Directable Camera Control: Menggenggam Kendali Sinematik dalam Generasi Video AI
 
@@ -55,55 +55,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Gerak Lambat / AI Peningkatan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+### [Gerak Lambat / AI Peningkatan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
-[![Visualisasi AI yang meningkatkan frame rate untuk efek slow motion yang sangat mulus.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Slow Motion Motion Enhancement AI-jasa-video-ai.webp "Gerak Lambat / AI Peningkatan Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+[![Visualisasi AI yang meningkatkan frame rate untuk efek slow motion yang sangat mulus.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Slow Motion Motion Enhancement AI-jasa-video-ai.webp "Gerak Lambat / AI Peningkatan Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
 Jasa Video AI revolusioner yang memanfaatkan teknologi *Deep Learning* untuk menciptakan efek *Slow Motion* yang mulus dari footage standar dan melakukan *Motion Enhancement* untuk meningkatkan ketajaman pada pergerakan cepat, mengubah rekaman biasa menjadi visual sinematik berkualitas tinggi.
 
-### [Video Karakter yang Konsisten](https://github.com/jasavideoai/jasavideoai.github.io/consistent-character-video.md/)
+### [Video Karakter yang Konsisten](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/consistent-character-video.md/)
 
-[![Ilustrasi karakter animasi konsisten yang diproduksi oleh AI untuk video pemasaran digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Consistent Character Video-jasa-video-ai.webp "Video Karakter yang Konsisten")](https://github.com/jasavideoai/jasavideoai.github.io/consistent-character-video.md/)
+[![Ilustrasi karakter animasi konsisten yang diproduksi oleh AI untuk video pemasaran digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Consistent Character Video-jasa-video-ai.webp "Video Karakter yang Konsisten")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/consistent-character-video.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/consistent-character-video.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/consistent-character-video.md/)
 
 Jasa pembuatan video AI revolusioner menggunakan teknik Consistent Character Video (CCV) yang memastikan karakter visual Anda tetap identik di setiap adegan, menghemat waktu produksi, mengurangi biaya, dan meningkatkan kualitas narasi visual secara drastis.
 
-### [Referensi Subjek Video](https://github.com/jasavideoai/jasavideoai.github.io/subject-reference-video.md/)
+### [Referensi Subjek Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/subject-reference-video.md/)
 
-[![Visualisasi proses kolaborasi antara klien dan jasa video AI menggunakan contoh referensi.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Subject Reference Video-jasa-video-ai-1024x1024.webp "Referensi Subjek Video")](https://github.com/jasavideoai/jasavideoai.github.io/subject-reference-video.md/)
+[![Visualisasi proses kolaborasi antara klien dan jasa video AI menggunakan contoh referensi.[/id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Subject Reference Video-jasa-video-ai-1024x1024.webp "Referensi Subjek Video")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/subject-reference-video.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/subject-reference-video.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/subject-reference-video.md/)
 
 Jasa Video AI menggunakan teknik canggih Subject Reference Video (SRV) memungkinkan penciptaan ulang subjek video yang konsisten dalam berbagai skenario baru secara cepat dan efisien, merevolusi produksi konten visual.
 
-### [Teks ke Gambar](https://github.com/jasavideoai/jasavideoai.github.io/text-to-image.md/)
+### [Teks ke Gambar](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/text-to-image.md/)
 
-[![Ilustrasi logo revolusi video AI dari teks menjadi gambar bergerak.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/text-to-image-jasa-video-ai-1024x683.webp "Teks ke Gambar")](https://github.com/jasavideoai/jasavideoai.github.io/text-to-image.md/)
+[![Ilustrasi logo revolusi video AI dari teks menjadi gambar bergerak.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/text-to-image-jasa-video-ai-1024x683.webp "Teks ke Gambar")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/text-to-image.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/text-to-image.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/text-to-image.md/)
 
 Jasa Video AI memanfaatkan teknologi 'Text to Image' untuk mengubah deskripsi teks menjadi visual yang kaya dan spesifik, menawarkan kecepatan produksi tak tertandingi, kreativitas tanpa batas, dan efisiensi biaya signifikan dibandingkan metode produksi video tradisional.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -113,12 +113,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/keyframe-directable-camera-control.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/keyframe-directable-camera-control.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/keyframe-directable-camera-control.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/keyframe-directable-camera-control.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/keyframe-directable-camera-control.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/keyframe-directable-camera-control.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/keyframe-directable-camera-control.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/keyframe-directable-camera-control.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/keyframe-directable-camera-control.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/keyframe-directable-camera-control.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/keyframe-directable-camera-control.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/keyframe-directable-camera-control.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

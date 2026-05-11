@@ -2,12 +2,12 @@
 
 Menu
 
-[![Ilustrasi visualisasi peningkatan frame rate video menggunakan teknologi Frame Interpolation AI.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Frame Interpolation AI-jasa-video-ai.webp "Interpolasi Bingkai AI")](https://github.com/jasavideoai/jasavideoai.github.io/frame-interpolation-ai.md/attachment/frame-interpolation-ai-jasa-video-ai/)
+[![Ilustrasi visualisasi peningkatan frame rate video menggunakan teknologi Frame Interpolation AI.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Frame Interpolation AI-jasa-video-ai.webp "Interpolasi Bingkai AI")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/frame-interpolation-ai.md/attachment/frame-interpolation-ai-jasa-video-ai/)
 
-# [Interpolasi Bingkai AI](https://github.com/jasavideoai/jasavideoai.github.io/frame-interpolation-ai.md/)
+# [Interpolasi Bingkai AI](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/frame-interpolation-ai.md/)
 
-- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/category/teknik.md/)
-- [Frame Interpolation](https://github.com/jasavideoai/jasavideoai.github.io/tag/frame-interpolation.md/), [Kehalusan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/tag/kehalusan-gerak.md/), [Pemrosesan Video AI](https://github.com/jasavideoai/jasavideoai.github.io/tag/pemrosesan-video-ai.md/), [Peningkatan FPS](https://github.com/jasavideoai/jasavideoai.github.io/tag/peningkatan-fps.md/), [Teknologi Video](https://github.com/jasavideoai/jasavideoai.github.io/tag/teknologi-video.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/tag/video-ai.md/)
+- [Teknik](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/category/teknik.md/)
+- [Frame Interpolation](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/frame-interpolation.md/), [Kehalusan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/kehalusan-gerak.md/), [Pemrosesan Video AI](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/pemrosesan-video-ai.md/), [Peningkatan FPS](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/peningkatan-fps.md/), [Teknologi Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/teknologi-video.md/), [video ai](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/tag/video-ai.md/)
 
 ## Frame Interpolation AI: Merevolusi Kehalusan Gerak dalam Video Anda
 
@@ -64,55 +64,55 @@ Jasa Pembuatan Video AI hubungi **+62-821-366-999-27**
 
 ## Artikel Lainnya
 
-### [Skrip-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+### [Skrip-ke-Video](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
-[![Ilustrasi dashboard jasa video AI script to video](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Script-to-Video-jasa-video-ai.webp "Skrip-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+[![Ilustrasi dashboard jasa video AI script to video](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Script-to-Video-jasa-video-ai.webp "Skrip-ke-Video")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/script-to-video.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/script-to-video.md/)
 
 Jasa Video AI berbasis teknik Script-to-Video merevolusi pembuatan konten dengan mengubah naskah tertulis menjadi video profesional secara otomatis. Teknologi ini menawarkan kecepatan produksi yang luar biasa, efisiensi biaya signifikan karena menghilangkan kebutuhan akan kru dan peralatan mahal, serta skalabilitas untuk produksi konten volume tinggi. AI menggunakan NLP untuk memahami konteks naskah, memilih visual yang relevan dari aset yang ada, dan menyinkronkan narasi dengan visual secara sempurna, menjadikannya alat penting untuk pemasaran digital, e-learning, dan komunikasi perusahaan.
 
-### [Animasi Karakter AI](https://github.com/jasavideoai/jasavideoai.github.io/character-animation-ai.md/)
+### [Animasi Karakter AI](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/character-animation-ai.md/)
 
-[![Ilustrasi karakter animasi digital yang dibuat menggunakan teknologi AI.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Character-Animation-jasa-video-ai.webp "Animasi Karakter AI")](https://github.com/jasavideoai/jasavideoai.github.io/character-animation-ai.md/)
+[![Ilustrasi karakter animasi digital yang dibuat menggunakan teknologi AI.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Character-Animation-jasa-video-ai.webp "Animasi Karakter AI")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/character-animation-ai.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/character-animation-ai.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/character-animation-ai.md/)
 
 Jasa Video AI kami memanfaatkan teknologi Character Animation AI mutakhir untuk menghasilkan konten visual yang memukau, efisien, dan sangat personal. Teknologi ini mengotomatisasi pembuatan gerakan dan ekspresi karakter digital, menawarkan kecepatan produksi eksponensial, konsistensi visual tak tertandingi, dan kemampuan kustomisasi mendalam untuk berbagai aplikasi mulai dari pemasaran hingga e-learning.
 
-### [Gerak Lambat / AI Peningkatan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+### [Gerak Lambat / AI Peningkatan Gerak](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
-[![Visualisasi AI yang meningkatkan frame rate untuk efek slow motion yang sangat mulus.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Slow Motion Motion Enhancement AI-jasa-video-ai.webp "Gerak Lambat / AI Peningkatan Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+[![Visualisasi AI yang meningkatkan frame rate untuk efek slow motion yang sangat mulus.[/:id]](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Slow Motion Motion Enhancement AI-jasa-video-ai.webp "Gerak Lambat / AI Peningkatan Gerak")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/slow-motion-motion-enhancement-ai.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/slow-motion-motion-enhancement-ai.md/)
 
 Jasa Video AI revolusioner yang memanfaatkan teknologi *Deep Learning* untuk menciptakan efek *Slow Motion* yang mulus dari footage standar dan melakukan *Motion Enhancement* untuk meningkatkan ketajaman pada pergerakan cepat, mengubah rekaman biasa menjadi visual sinematik berkualitas tinggi.
 
-### [Sinkronisasi Bibir](https://github.com/jasavideoai/jasavideoai.github.io/lipsync.md/)
+### [Sinkronisasi Bibir](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/lipsync.md/)
 
-[![Ilustrasi seorang profesional menggunakan software AI canggih untuk menyempurnakan sinkronisasi bibir pada video digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/lipsync-jasa-video-ai.webp "Sinkronisasi Bibir")](https://github.com/jasavideoai/jasavideoai.github.io/lipsync.md/)
+[![Ilustrasi seorang profesional menggunakan software AI canggih untuk menyempurnakan sinkronisasi bibir pada video digital.](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/lipsync-jasa-video-ai.webp "Sinkronisasi Bibir")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/lipsync.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/lipsync.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/lipsync.md/)
 
 Jasa Video AI menawarkan solusi revolusioner untuk sinkronisasi bibir (lipsync) yang sempurna dalam produksi konten visual. Dengan memanfaatkan teknologi Deep Neural Networks, layanan ini memungkinkan lokalisasi video multibahasa yang akurat, efisien waktu, dan hemat biaya, memastikan setiap kata terucap selaras dengan gerakan bibir presenter virtual atau avatar Anda.
 
 Sebagai jasa pembuatan video AI terpercaya yang fokus pada kualitas dan kepuasan klien, kami menggabungkan inovasi AI terkini dengan pemahaman mendalam tentang pasar Indonesia. Mulai dari Reels/TikTok viral, iklan produk, company profile, explainer video, hingga konten edukasi korporat — semuanya dikerjakan dengan standar tinggi, deadline tepat, dan harga kompetitif. Testimoni positif dari ratusan klien menjadi bukti keandalan kami. Siap tingkatkan branding dan penjualan Anda? Hubungi kami sekarang via chat atau telepon untuk diskusi proyek Anda!
 
-[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+[![Pemasaran Digital](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Website-Analisa-Analytics-300x261.jpg "Pemasaran Digital")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/digital-marketing.md/)
+## [Pemasaran Digital](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/digital-marketing.md/)
 
-[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+[![Iklan Online](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Iklan-Sosial-Media-300x200.jpg "Iklan Online")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/iklan-online.md/)
+## [Iklan Online](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/iklan-online.md/)
 
-[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+[![Media Sosial](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Sosial-Media-Facebook-Instagram-Tiktok-300x200.jpg "Media Sosial")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/media-sosial.md/)
+## [Media Sosial](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/media-sosial.md/)
 
-[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+[![Website](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/2026/03/Jasa-Web-SEO-300x300.jpeg "Website")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
-## [Website](https://github.com/jasavideoai/jasavideoai.github.io/website.md/)
+## [Website](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/website.md/)
 
 Candi Golf Boulevard kv.31 Semarang, Indonesia  
 [jasavideoai@madxartwork.eu.org](mailto:jasavideoai@madxartwork.eu.org)  
@@ -122,12 +122,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/frame-interpolation-ai.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/frame-interpolation-ai.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/frame-interpolation-ai.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/frame-interpolation-ai.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/frame-interpolation-ai.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/frame-interpolation-ai.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/frame-interpolation-ai.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/frame-interpolation-ai.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/frame-interpolation-ai.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/frame-interpolation-ai.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/frame-interpolation-ai.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/frame-interpolation-ai.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 

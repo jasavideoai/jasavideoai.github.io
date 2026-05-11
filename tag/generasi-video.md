@@ -4,11 +4,11 @@ Menu
 
 Tag: generasi video
 
-### [Konsistensi Gambar Referensi](https://github.com/jasavideoai/jasavideoai.github.io/reference-image-consistency.md/)
+### [Konsistensi Gambar Referensi](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/reference-image-consistency.md/)
 
-[![Ilustrasi teknis mengenai konsistensi visual dalam rendering AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Reference Image Consistency-jasa-video-ai-1024x1024.webp "Konsistensi Gambar Referensi")](https://github.com/jasavideoai/jasavideoai.github.io/reference-image-consistency.md/)
+[![Ilustrasi teknis mengenai konsistensi visual dalam rendering AI](https://jasavideoai.madxartwork.eu.org/wp-content/uploads/images/Reference Image Consistency-jasa-video-ai-1024x1024.webp "Konsistensi Gambar Referensi")](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/reference-image-consistency.md/)
 
-[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/reference-image-consistency.md/)
+[Selengkapnya](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/reference-image-consistency.md/)
 
 Teknologi Reference Image Consistency (RIC) mengatasi masalah utama dalam video AI, yaitu inkonsistensi visual antar frame. Dengan menggunakan gambar referensi sebagai "jangkar" visual yang ketat, RIC memastikan bahwa gaya, komposisi, dan detail objek dalam video yang dihasilkan AI tetap stabil dan setia pada referensi awal, menghasilkan output yang lebih profesional dan mengurangi kebutuhan editing pasca-produksi.
 
@@ -20,12 +20,12 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 
 ## Ide kreatif tak terbatas
 
-- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/id/tag/generasi-video.md/ "Indonesia (id)")
-- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/en/tag/generasi-video.md/ "English (en)")
-- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/de/tag/generasi-video.md/ "Deutsch (de)")
-- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/nl/tag/generasi-video.md/ "Nederlands (nl)")
-- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/fr/tag/generasi-video.md/ "Français (fr)")
-- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/it/tag/generasi-video.md/ "Italiano (it)")
+- [![Indonesia (id)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/id.png)Indonesia](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/id/tag/generasi-video.md/ "Indonesia (id)")
+- [![English (en)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/gb.png)English](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/en/tag/generasi-video.md/ "English (en)")
+- [![Deutsch (de)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/de.png)Deutsch](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/de/tag/generasi-video.md/ "Deutsch (de)")
+- [![Nederlands (nl)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/nl.png)Nederlands](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/nl/tag/generasi-video.md/ "Nederlands (nl)")
+- [![Français (fr)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/fr.png)Français](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/fr/tag/generasi-video.md/ "Français (fr)")
+- [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/tag/generasi-video.md/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
 
