@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-def delete_https_files(root_dir, dry_run=False):
+def delete_https_files(root_dir, dry_run=True):
     root = Path(root_dir)
     if not root.is_dir():
         print(f"? Error: '{root_dir}' bukan folder yang valid.")
@@ -48,4 +48,4 @@ if __name__ == '__main__':
     target = input("Masukkan path folder: ").strip().strip('"')
     
     # ?? PENTING: Ubah dry_run=False HANYA jika sudah yakin ingin menghapus
-    delete_https_files(target, dry_run=False)
+    delete_https_files(target, dry_run=True)
