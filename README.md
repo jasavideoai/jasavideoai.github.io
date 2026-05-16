@@ -347,5 +347,5 @@ Candi Golf Boulevard kv.31 Semarang, Indonesia
 - [![Italiano (it)](https://jasavideoai.madxartwork.eu.org/wp-content/plugins/qtranslate-xt-master/flags/it.png)Italiano](https://github.com/jasavideoai/jasavideoai.github.io/blob/main/it/ "Italiano (it)")
 
 [Whatsapp](https://wa.me/6282136699927)
-
+[Jasa Video AI](https://jasavideoai.github.io)
 Copyright @
